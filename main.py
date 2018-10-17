@@ -1,5 +1,5 @@
 # twitter bot that tweets out weather updates
-# By: Jacob Pitoniak
+# By: JJpit
 # Date: 9-14-18
 from bot import * #importing everything from bot.py (funcs)
 from time import sleep
